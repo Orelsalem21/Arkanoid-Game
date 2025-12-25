@@ -2,6 +2,8 @@
 
 A Java implementation of an Arkanoid-style arcade game, developed as part of an academic OOP project.
 
+![Gameplay Screenshot](assets/gameplay.png)
+
 ## Features
 - Object-oriented design with clear separation of responsibilities
 - Collision detection and handling
